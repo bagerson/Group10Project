@@ -1,10 +1,12 @@
 Notes on Data cleaning
 
-Decide on date range Cut data so that the final data sets start at 2009-01 (january 2009)
+1. Cut data so that the data sets start at 2009-01 (january 2009) 3X DATA SET: Mo, Ming, Vicky
 
-Aggregate daily stock market indexes into monthly average (HPI average is monthly)
+2. Clean date so that YEAR and MONTH are easily readable in SEPARATE COLUMNS for sorting and averaging (groupby) 3X DATA SET: Mo, Ming, Vick
 
-Clean date so that YEAR and MONTH are easily readable for sorting and averaging (groupby)
+3. Filter housing data for date and month Ben
+
+
 
 
 
