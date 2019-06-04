@@ -1,0 +1,10 @@
+Notes on Data cleaning
+
+Decide on date range Cut data so that the final data sets start at 2009-01 (january 2009)
+
+Aggregate daily stock market indexes into monthly average (HPI average is monthly)
+
+Clean date so that YEAR and MONTH are easily readable for sorting and averaging (groupby)
+
+
+
